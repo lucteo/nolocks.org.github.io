@@ -22,11 +22,11 @@ title: Locks provide exclusive access to evil
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Locks are a bad way for doing multi-threaded. And so are raw-threads. Similar to
-  gotos they should be confied to low-level, hidden by compilers/libraries.
+  gotos they should be confined to low-level, hidden by compilers/libraries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@LucT3o"
-github_username:  lucteo
+# twitter_username: "@LucT3o"
+# github_username:  lucteo
 
 header_pages:
   - videos.md
