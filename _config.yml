@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Locks provide exclusive access to evil
+title: NO-LOCKS
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Locks are a bad way for doing multi-threaded. And so are raw-threads. Similar to
+  Locks are in general an anti-pattern for building concurrent programs. And so are raw-threads. Similar to
   gotos they should be confined to low-level, hidden by compilers/libraries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

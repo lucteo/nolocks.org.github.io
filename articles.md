@@ -4,6 +4,8 @@ title: Articles
 permalink: /articles/
 ---
 
+Lucian Radu Teodorescu, [Composition and Decomposition of Task Systems](https://accu.org/journals/overload/29/162/overload162.pdf), Overload 162, April 2021
+
 Lucian Radu Teodorescu, [A Case Against Blind Use of C++ Parallel Algorithms](https://accu.org/journals/overload/29/161/overload161.pdf), Overload 161, February 2021
 
 Lucian Radu Teodorescu, [Concurrency Design Patterns](https://accu.org/journals/overload/28/159/overload159.pdf), Overload 159, October 2020
